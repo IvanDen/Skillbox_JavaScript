@@ -1,0 +1,32 @@
+section {
+  align-items: center;
+  margin: auto;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+}
+
+.wrap-content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wrap-content > div {
+  margin-bottom: 20px;
+}
+
+.wrap-module {
+  border: 1px solid #008000;
+  background: #4caf5029;
+  padding: 25px;
+  font: 16px/2em Arial;
+}
+
+.button {
+  height: 50px;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=styles.css.map */

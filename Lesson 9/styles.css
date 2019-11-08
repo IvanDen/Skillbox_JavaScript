@@ -1,0 +1,4 @@
+.button {font: 18px 'roboto-regular'; color: #ffffff; background-color: #0409ff; padding: 20px; box-sizing: border-box; text-align: center; width: 200px;}
+.button:hover {cursor: pointer; box-shadow: 0 11px 20px 0 #0000002b;}
+
+.active {text-decoration: line-through;}
